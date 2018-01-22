@@ -73,6 +73,8 @@ example:
 
 ```nginx
 #nginx.conf
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fform-input-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fform-input-nginx-module?ref=badge_shield)
+
 
 location /foo {
     # ensure client_max_body_size == client_body_buffer_size
@@ -162,3 +164,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fform-input-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fform-input-nginx-module?ref=badge_large)
